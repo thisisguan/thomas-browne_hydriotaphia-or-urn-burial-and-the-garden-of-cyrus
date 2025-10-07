@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<dc:title id="title">Hydriotphia, or Urn-Burial, and the Garden of Cyrus</dc:title>
-		<meta property="file-as" refines="#title">Hydriotphia, or Urn-Burial, and the Garden of Cyrus</meta>
+		<dc:title id="title">Hydriotaphia, or Urn-Burial, and the Garden of Cyrus</dc:title>
+		<meta property="file-as" refines="#title">Hydriotaphia, or Urn-Burial, and the Garden of Cyrus</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -47,7 +47,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-browne_hydriotphia-or-urn-burial-and-the-garden-of-cyrus</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-browne_hydriotaphia-or-urn-burial-and-the-garden-of-cyrus</meta>
 		<dc:creator id="author">Thomas Browne</dc:creator>
 		<meta property="file-as" refines="#author">Browne, Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
